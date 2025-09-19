@@ -1,0 +1,6 @@
+
+Pillow>=9.0
+numpy>=1.22
+tqdm
+scikit-image
+tensorflow>=2.10  # optional; needed for training/inference
